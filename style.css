@@ -1,0 +1,145 @@
+body{
+    background-color: green;
+}
+.site{
+    background-color: green;
+}
+.two{
+    display: flex;
+    /* justify-content: space-between; */
+    margin-left: 10%;
+    margin-top: -5%;
+}
+
+
+#bness{
+margin-left: 3%;
+color: rgb(13, 236, 13);
+}
+.all{
+    display: flex;
+    margin-left:60%;
+    margin-top: -3%;
+    color: rgb(13, 236, 13);
+}
+.them{
+    display: flex;
+    border: 15px;
+    background-color: rgb(148, 209, 148);
+    color: green;
+    /* text-align: center; */
+}
+#Browse{
+margin-left: 3%;
+}
+#rate{
+    margin-left: 3%;
+}
+#bank{
+    margin-left: 3%;
+}
+#Wise{
+    color: rgb(70, 236, 70);
+    font-style: oblique;
+    margin-left: 2%;
+}
+#personal{
+
+    border:solid;
+    border-radius: 10px 10px;
+width: 90px;
+    color: green;
+    text-align: center;
+    border-color: rgb(84, 233, 84);
+    background-color: rgb(98, 240, 98);
+    color: rgb(3, 85, 3);
+    /* color: green; */
+}
+#price{
+    margin-left: 3%;
+}
+#help{
+    margin-left: 3%;
+}
+#log{
+    margin-left: 3%;
+}
+#register{
+    border-style: solid;
+    margin-left: 3%;
+    border-radius: 35px 35px;
+    background-color: rgb(88, 238, 88);
+    color: rgb(3, 85, 3);
+    /* color: rgb(2, 131, 2); */
+    border-color: rgb(84, 233, 84);
+}
+#shillings{
+    text-align: center;
+    
+    color: green;
+    /* font-size: xx-large; */
+    font-size: 50px;
+}
+#Convert{
+margin-left: 22%;
+/* color: rgb(12, 158, 12); */
+font-size: 30px;
+color: rgb(23, 221, 23);
+/* color: rgb(13, 236, 13); */
+}
+#total{
+    padding: 14px;
+    width: 300px;
+    border-radius: 20px 21px;
+    height: 50px;
+     /* -webkit-margin-end: 40%; */
+
+}
+#Amount{
+    /* padding: 14px; */
+    /* width: 100px;
+    border-radius: 20px 21px;
+    height: 50px; */
+    margin-top: 10%;
+    margin-left: 70px;
+    /* margin-right: ; */
+    
+}
+#lab{
+    margin-left: 70px;
+}
+#img{
+border: 5px;
+    border-radius: 200px 200px;
+    width: 50px;
+    margin-left: 1%;
+    /* margin-bottom: 80%; */
+    margin-bottom: -4%;
+}
+.whole{
+    margin-left: 40%;
+    margin-top: -25%;
+    display: flex;
+   
+    margin-left: 22%;
+
+font-size: 30px;
+/* color: rgb(23, 221, 23); */
+/* color: rgb(13, 236, 13); */
+}
+
+#money{
+    margin-left: 3%;
+}
+/* #rate{
+    margin-left: 3%; */
+/* .all{
+
+} */
+.UG{
+    margin-left: 20%;
+    margin-top: 14%;
+}
+/* #con{
+    color: green;
+} */
